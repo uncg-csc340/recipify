@@ -1,4 +1,4 @@
-# Team7SummerProject
+# Team 0 Term Project
 ## Title
 
 > Recipify
